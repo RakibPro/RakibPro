@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rakib Hossan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer with a diverse skill set in both frontend and backend technologies. I'm always excited to collaborate on new projects and learn new things.</h3>
 
+<img align="right" src="https://i.ibb.co/4t9swJ5/coding.gif" alt="Coding Animation" width="400" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibpro&label=Profile%20views&color=0e75b6&style=flat" alt="rakibpro" /> </p>
 
 
