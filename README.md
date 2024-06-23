@@ -11,24 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <p align="left">
     
-  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
-  </p>
+  <a href="https://www.linkedin.com/in/rakibhossan/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.facebook.com/rakib.hossan.1998/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakib" width="52" height="40" /></a>
+  <a href="https://www.instagram.com/rakib.98/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
   
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -68,12 +57,10 @@
 
 <div align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibPro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true&order=2" height="160" alt="languages graph" />
- &nbsp;
  
  <img src="https://github-readme-stats.vercel.app/api?username=RakibPro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+ &nbsp; &nbsp;
  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibPro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true&order=2" height="160" alt="languages graph" />
 </div>
-
-
 
