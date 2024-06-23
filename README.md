@@ -7,7 +7,7 @@
 
 - 👨‍💻 Visit My Porfolio To See All My Projects [https://portfolio-rakib.vercel.app](https://portfolio-rakib.vercel.app)
 
-- 📫 How to reach me **rakibhossan.1998@gmail.com**
+- 📫 Feel free to contact me **rakibhossan.1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
