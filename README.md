@@ -1,19 +1,33 @@
+[![MasterHead](https://i.ibb.co/j61Pmfv/Black-Modern-Personal-Linked-In-Banner.png)](https://portfolio-rakib.vercel.app/)
 <h1 align="center">Hi 👋, I'm Rakib Hossan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer with a diverse skill set in both frontend and backend technologies. I'm always excited to collaborate on new projects and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibpro&label=Profile%20views&color=0e75b6&style=flat" alt="rakibpro" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rakib.vercel.app](https://portfolio-rakib.vercel.app)
+- 👨‍💻 Visit My Porfolio To See All My Projects [https://portfolio-rakib.vercel.app](https://portfolio-rakib.vercel.app)
 
-- 📫 How to reach me **rakib@email.com**
+- 📫 How to reach me **rakibhossan.1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <p align="left">
+    
+  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rakibhossan" target="blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
+  </p>
+  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,11 +66,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibPro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true&order=2" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibPro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true&order=2" height="160" alt="languages graph" />
  &nbsp;
- <img src="https://github-readme-stats.vercel.app/api?username=RakibPro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=RakibPro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
  
 </div>
 
