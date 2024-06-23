@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/j61Pmfv/Black-Modern-Personal-Linked-In-Banner.png)](https://portfolio-rakib.vercel.app/)
+[![MasterHead](**https://i.ibb.co/j61Pmfv/Black-Modern-Personal-Linked-In-Banner.png**)](https://portfolio-rakib.vercel.app/)
 <h1 align="center">Hi 👋, I'm Rakib Hossan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Web Developer with a diverse skill set in both frontend and backend technologies. I'm always excited to collaborate on new projects and learn new things.</h3>
 
