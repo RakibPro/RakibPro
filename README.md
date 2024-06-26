@@ -4,8 +4,7 @@
 
 <img align="right" src="https://i.ibb.co/4t9swJ5/coding.gif" alt="Coding Animation" width="360" />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibpro&label=Profile%20views&color=0e75b6&style=flat" alt="rakibpro" /> </p>
+[![](https://visitcount.itsvg.in/api?id=RakibPro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 - 👨‍💻 To See All My Projects Visit My [Portfolio](https://portfolio-rakib.vercel.app)
@@ -56,14 +55,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
 </div>
 
-###
 
-<div align="left">
-  
- 
- <img src="https://github-readme-stats.vercel.app/api?username=RakibPro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
- &nbsp; &nbsp;
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibPro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=monokai&hide_border=true&order=2" height="160" alt="languages graph" />
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RakibPro&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibPro&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
